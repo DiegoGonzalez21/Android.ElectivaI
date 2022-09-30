@@ -1,29 +1,30 @@
 # Diseño de interfaz de usuario
 
-La interfaz de usuario de la aplicación UANCasts esta inspirada en la interfaz de usuari de
-aplicaicones similares y en el uso de [Material Design](https://material.io/design).
+La interfaz de usuario de la aplicación FUNMATH esta inspirada en la interfaz de usuari de
+aplicaicones similares 
 
-El diseño completoe esta disponible
-en [Figma](https://www.figma.com/proto/hfzawvdC9umcC1e2z56fxR/PodcastsApp?node-id=1%3A2&scaling=scale-down)
-. Los colores a usar estar[an basados en una combinación de escalas de gris. A continuación se
+El diseño completo esta disponible
+en: https://marvelapp.com/prototype/81jgj2e
+
+. Los colores a usar estar[an basados en una combinación agradable a la vista. A continuación se
 presentan las principales pantallas:
 
-1. Lista de Podcasts
+1. Logo para ingresar al app
 
-   Cuando el usuario ingrese a la aplicaicón verá una lista con los podcasts disponibles tomados
-   desde el API.
+   Logo del app
 
-   ![Lista de podcasts](images/PodcastList.png)
+   ![Logo del app](images/1.1.png)
 
-2. Episodios de un Podcast
+2. Menú Principal
 
-   Al seleccionar un Podcats, el usuario verá la lista de episodios de ese podcasts y podrá
-   reproducirlos.
+   Al seleccionar un modo de juego, el usuario verá la lista de preguntas y prodra seleccionar las respuestas
 
-   ![Lista de episodios](images/EpisodesPlaying.png)
+   ![Menú Principal](images/2.2.png)
+   ![dentro del juego](images/3.3.png)
+   ![dentro del juego](images/4.4.png)
 
-3. Búsqueda podcasts
+3. Final del juego
 
-   Adicionalmente el usuario podrá buscar los Podcasts de su interes usando palabras clave.
+   Al finalizar todas las preguntas se mostrará el puntaje final y la cantidad de respuestas acertadas
 
-   ![Búsqueda](images/Search.png)
+   ![Final](images/5.5.png)
